@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-If you're new to contribute to opensource, checkout [Hacktoberfest 2022 Website](hacktoberfest.com) for more useful resources on how to get started!
+If you're new to contribute to Open Source, checkout [Hacktoberfest 2022 Website](hacktoberfest.com) for more useful resources on how to get started!
 
 Make sure your pull request satisfies the following guidelines:
 
