@@ -13,4 +13,6 @@ Make sure your pull request satisfies the following guidelines:
 
 Also, thanks to [Dhanush](https://github.com/DhanushNehru) and [Hacktoberfest](hacktoberfest.com) for inspiring me to get started with this project!
 
-Bonus: Don't forget to give it a star so many more people can find this helpful repo. Also, if you follow me on GitHub, your PR might get merged faster 😉 
+Bonus: Don't forget to give it a star so many more people can find this helpful repo. Also, if you follow me on GitHub, your PR might get merged faster! 😉
+
+Happy coding, everyone!!!
