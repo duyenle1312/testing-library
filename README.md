@@ -1,1 +1,15 @@
-# A curated list of testing library/framework for all programming languages
+# [A Curated List of Testing Resouces](https://github.com/duyenle1312/testing-library)
+
+## Contributing
+Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/main/CONTRIBUTING.md) for details before you contribute
+
+## Table of Contents
+- [Javascript](#javascript)
+- [Python](#python)
+
+## Javascript
+- [Jest](https://www.valentinog.com/blog/jest/)
+- [Ava for NodeJS](https://github.com/avajs/ava)
+
+## Python
+- [Pytest](https://docs.pytest.org/en/7.1.x/)
