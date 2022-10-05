@@ -8,14 +8,14 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Python](#Python)
 - [Automated Testing](#Automated-Testing)
 
-## Javascript
+### Javascript
 - [Jest](https://www.valentinog.com/blog/jest/)
 - [Mocha](https://github.com/mochajs/mocha)
 - [Ava](https://github.com/avajs/ava)
 
-## Python
+### Python
 - [Pytest](https://docs.pytest.org/en/7.1.x/)
 
-## Automated Testing
+### Automated Testing
 - [Cypress](https://www.cypress.io/)
 - [Refect](https://reflect.run/)
