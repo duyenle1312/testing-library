@@ -4,7 +4,7 @@ If you're new to contribute to Open Source, check out [Hacktoberfest 2022](hackt
 
 Make sure your pull request satisfies the following guidelines:
 
-- The PR title is in the format of "Add testing-framework for programming-language" or "Add testing-tool for automated-testing"
+- The PR title is in the format of "Add testing-framework for programming-language" or "Add testing-tool for automated-testing" or "Add new programming-language section" if you want to add a new language 
 - For the URL of the tool/framework, you could either use a beginner-friendly tutorial anywhere on the Internet, the GitHub repo or the official website of the framework
 - Search for previous successfully merged PR to take it as an example before making a new one
 - New languages, and suggestions are always welcome
