@@ -4,13 +4,11 @@
 Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/duyenle1312/testing-library/blob/main/CODE_OF_CONDUCT.md) for details before you contribute
 
 ## Table of Contents
-- [Golang](#Golang)
+
 - [Javascript](#Javascript)
 - [Python](#Python)
+- [Golang](#Golang)
 - [Automated Testing](#Automated-Testing)
-
-### Golang
-- [Testify](https://github.com/stretchr/testify)
 
 ### Javascript
 - [Jest](https://www.valentinog.com/blog/jest/)
@@ -22,6 +20,9 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 ### Python
 - [Pytest](https://docs.pytest.org/en/7.1.x/)
 - [Unittest](https://docs.python.org/3/library/unittest.html)
+
+### Golang
+- [Testify](https://github.com/stretchr/testify)
 
 ### Automated Testing
 - [Cypress](https://www.cypress.io/)
