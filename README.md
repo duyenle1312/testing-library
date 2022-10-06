@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Javascript](#Javascript)
 - [Python](#Python)
 - [Golang](#Golang)
+- [Java](#Java)
 - [C](#c)
 - [CPP](#cpp)
 - [Automated Testing](#Automated-Testing)
@@ -26,8 +27,14 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 ### Golang
 - [Testify](https://github.com/stretchr/testify)
 
-## C ##
+### Java 
+- [Selenium](https://github.com/SeleniumHQ/selenium)
+- [TestNG](https://github.com/cbeust/testng)
+- [Mockito](https://github.com/mockito/mockito)
+- [SerenityBDD](https://github.com/serenity-bdd/serenity-core)
+- [JUnit](https://github.com/junit-team/junit5)
 
+## C
 - [CHEAT](https://github.com/Tuplanolla/cheat)
 - [Check](https://libcheck.github.io/check)
 - [ciut](https://github.com/yhfudev/cpp-ci-unit-test)
