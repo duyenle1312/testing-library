@@ -19,6 +19,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 
 ### Python
 - [Pytest](https://docs.pytest.org/en/7.1.x/)
+- [Unittest](https://docs.python.org/3/library/unittest.html)
 
 ### Automated Testing
 - [Cypress](https://www.cypress.io/)
