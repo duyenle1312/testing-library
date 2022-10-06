@@ -25,8 +25,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 ### Golang
 - [Testify](https://github.com/stretchr/testify)
 
-## C ##
-
+## C
 - [CHEAT](https://github.com/Tuplanolla/cheat)
 - [Check](https://libcheck.github.io/check)
 - [ciut](https://github.com/yhfudev/cpp-ci-unit-test)
