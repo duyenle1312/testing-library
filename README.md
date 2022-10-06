@@ -12,6 +12,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Jest](https://www.valentinog.com/blog/jest/)
 - [Mocha](https://github.com/mochajs/mocha)
 - [Ava](https://github.com/avajs/ava)
+- [Enzyme](https://enzymejs.github.io/enzyme/)
 
 ### Python
 - [Pytest](https://docs.pytest.org/en/7.1.x/)
