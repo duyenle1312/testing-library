@@ -4,6 +4,7 @@
 Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/duyenle1312/testing-library/blob/main/CODE_OF_CONDUCT.md) for details before you contribute
 
 ## Table of Contents
+- [Unit Testing Principles](#principles)
 - [Javascript](#Javascript)
 - [Python](#Python)
 - [Golang](#Golang)
@@ -11,6 +12,10 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [C](#c)
 - [C++](#c++)
 - [Automated Testing](#Automated-Testing)
+
+### Unit Testing Principles
+- [Unit Tests, How to Write Testable Code, and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+- [FIRST Principles for Writing Good Unit](https://howtodoinjava.com/best-practices/first-principles-for-good-tests/)
 
 ### Javascript
 - [Jest](https://www.valentinog.com/blog/jest/)
