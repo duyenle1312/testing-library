@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-If you're new to contribute to Open Source, check out [Hacktoberfest 2022](hacktoberfest.com) for more useful resources on how to get started!
+If you're new to contribute to open source project, check out [this blog](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) for more useful resources on how to get started!
 
 Make sure your pull request satisfies the following guidelines:
 
