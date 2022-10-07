@@ -5,11 +5,10 @@ If you're new to contribute to open source project, check out [this blog](https:
 Make sure your pull request satisfies the following guidelines:
 
 - The PR title is in the format of "Add testing-framework for programming-language" or "Add testing-tool for automated-testing" or "Add new programming-language section" if you want to add a new language 
-- For the URL of the tool/framework, you could either use a beginner-friendly tutorial anywhere on the Internet, the GitHub repo or the official website of the framework
-- Search for previous successfully merged PR to take it as an example before making a new one
+- For the URL of the tool/framework, you could either use a beginner-friendly tutorial anywhere on the Internet for the framework, the GitHub repo or the official website of the framework
+- Have a look at successfully merged PRs before making a new one to understand the format and best practices
 - New languages, and suggestions are always welcome
-- Add your new entry at the bottom within the category
-- You could also add a testing tool that is not for a particular programming language too, for instance, Reflect and Cypress
+- You could also add a testing tool that is not for a particular programming language, for instance, Reflect and Cypress, or some useful tutorials
 
 Also, thanks to [Dhanush](https://github.com/DhanushNehru) and [Hacktoberfest](hacktoberfest.com) for inspiring me to get started with this project!
 
