@@ -9,7 +9,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Golang](#Golang)
 - [Java](#Java)
 - [C](#c)
-- [CPP](#cpp)
+- [C++](#c++)
 - [Automated Testing](#Automated-Testing)
 
 ### Javascript
