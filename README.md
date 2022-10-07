@@ -10,12 +10,12 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Golang](#Golang)
 - [Java](#Java)
 - [C](#c)
-- [C++](#c++)
+- [C++](#c-1)
 - [Automated Testing](#Automated-Testing)
 
 ### Unit Testing Principles
 - [Unit Tests, How to Write Testable Code, and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
-- [FIRST Principles for Writing Good Unit](https://howtodoinjava.com/best-practices/first-principles-for-good-tests/)
+- [FIRST Principles for Writing Good Unit Tests](https://howtodoinjava.com/best-practices/first-principles-for-good-tests/)
 
 ### Javascript
 - [Jest](https://www.valentinog.com/blog/jest/)
