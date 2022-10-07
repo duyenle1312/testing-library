@@ -10,6 +10,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Golang](#Golang)
 - [Java](#Java)
 - [C](#c)
+- [CPP](#cpp)
 - [Automated Testing](#Automated-Testing)
 
 ### Javascript
@@ -52,6 +53,18 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [theft](https://github.com/silentbicycle/theft)
 - [Unity](www.throwtheswitch.org/unity)
 - [utest](https://github.com/evolutional/utest)
+
+## CPP 
+- [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) 
+- [autocheck](https://github.com/thejohnfreeman/autocheck)
+- [Bandit](https://banditcpp.github.io/bandit/) 
+- [Boost.Test](https://www.boost.org/doc/libs/1_70_0/libs/test/doc/html/index.html)
+- [Catch](https://github.com/catchorg/Catch2) 
+- [doctest](https://github.com/onqtam/doctest) 
+- [Fakeit](https://github.com/eranpeer/FakeIt) 
+- [Googletest](https://github.com/google/googletest) 
+- [Mull](https://github.com/mull-project/mull) 
+- [rapidcheck](https://github.com/emil-e/rapidcheck) 
 
 ### Automated Testing
 - [Cypress](https://www.cypress.io/)
