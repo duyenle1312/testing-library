@@ -54,7 +54,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Unity](www.throwtheswitch.org/unity)
 - [utest](https://github.com/evolutional/utest)
 
-## CPP ##
+## CPP 
 
 - [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) 
 - [autocheck](https://github.com/thejohnfreeman/autocheck)
