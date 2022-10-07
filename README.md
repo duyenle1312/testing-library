@@ -4,7 +4,6 @@
 Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/duyenle1312/testing-library/blob/main/CODE_OF_CONDUCT.md) for details before you contribute
 
 ## Table of Contents
-
 - [Javascript](#Javascript)
 - [Python](#Python)
 - [Golang](#Golang)
@@ -34,7 +33,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [SerenityBDD](https://github.com/serenity-bdd/serenity-core)
 - [JUnit](https://github.com/junit-team/junit5)
 
-## C
+### C
 - [CHEAT](https://github.com/Tuplanolla/cheat)
 - [Check](https://libcheck.github.io/check)
 - [ciut](https://github.com/yhfudev/cpp-ci-unit-test)
@@ -54,7 +53,7 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [Unity](www.throwtheswitch.org/unity)
 - [utest](https://github.com/evolutional/utest)
 
-## CPP 
+### C++
 - [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) 
 - [autocheck](https://github.com/thejohnfreeman/autocheck)
 - [Bandit](https://banditcpp.github.io/bandit/) 
