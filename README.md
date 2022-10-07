@@ -55,7 +55,6 @@ Please see [CONTRIBUTING](https://github.com/duyenle1312/testing-library/blob/ma
 - [utest](https://github.com/evolutional/utest)
 
 ## CPP 
-
 - [Approval Tests for C++](https://github.com/approvals/ApprovalTests.cpp) 
 - [autocheck](https://github.com/thejohnfreeman/autocheck)
 - [Bandit](https://banditcpp.github.io/bandit/) 
